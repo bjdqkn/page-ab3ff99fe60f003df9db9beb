@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "093b318547eed2f52d547795",
+  "owner": "bjdqkn",
+  "repo": "page-ab3ff99fe60f003df9db9beb",
+  "title": "ShadowRhythm",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ab3ff99fe60f003df9db9beb",
+      "a": "ShadowRhythm",
+      "b": "",
+      "entity": "ShadowRhythm",
+      "brand": "ShadowRhythm",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9ed5cda42718e6869df80d7ae1ef35707e6a14d507183cdfb802cf1f7bae1c60",
+      "content": {
+        "keyword1": "ShadowRhythm",
+        "keyword2": "",
+        "primary_entity": "ShadowRhythm",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "ShadowRhythm 带来亲切又实用的数字生活方案，轻松管理流量，享受自在节奏！",
+          "AI_DESCRIPTION": "ShadowRhythm 带来亲切又实用的数字生活方案，轻松管理流量，享受自在节奏！"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n        :root {--wine: #8B1F41;--ivory: #F5EDE0}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: system-ui, -apple-system, sans-serif;background: var(--ivory);color: #333;line-height: 1.7;padding-left: 280px}\n        nav {position: fixed;left: 0;top: 0;width: 260px;height: 100vh;background: var(--wine);color: var(--ivory);padding: 40px 20px;z-index: 100;box-shadow: 4px 0 20px rgba(0,0,0,0.1)}\n        nav ul {list-style: none}\n        nav a {display: block;padding: 14px 20px;color: var(--ivory);text-decoration: none;font-size: 1.1rem;transition: all 0.3s}\n        nav a:hover {background: rgba(255,255,255,0.15);padding-left: 35px}\n        header {padding: 30px 20px;font-size: 1.3rem;font-weight: 600;border-bottom: 2px solid var(--wine)}\n        .hero {height: 100vh;background-size: cover;display: flex;align-items: center;justify-content: center;text-align: center;color: var(--ivory);position: relative}\n        .hero h1 {font-size: clamp(3.5rem, 8vw, 7rem);font-weight: 700;text-shadow: 0 4px 20px rgba(0,0,0,0.6);margin-bottom: 20px;letter-spacing: -2px}\n        .hero p {font-size: 1.4rem;max-width: 700px;margin: 0 auto}\n        .section {padding: 100px 20px;max-width: 1200px;margin: 0 auto}\n        h2 {font-size: 2.6rem;color: var(--wine);margin-bottom: 40px;text-align: center}\n        .plans {display: flex;flex-direction: column;gap: 40px;max-width: 1100px;margin: 0 auto}\n        .plan-card {background: white;border: 4px solid var(--wine);border-radius: 12px;padding: 50px 40px;position: relative;box-shadow: 0 10px 30px rgba(139,31,65,0.15);transition: transform 0.4s}\n        .plan-card:hover {transform: translateY(-12px)}\n        .plan-card h3 {font-size: 2rem;color: var(--wine);margin-bottom: 10px}\n        .price {font-size: 2.2rem;font-weight: 700;color: var(--wine);margin: 20px 0}\n        .features {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 14px}\n        .features li {background: var(--ivory);padding: 14px 20px;border-radius: 8px;font-size: 1.05rem}\n        .faq-group {background: white;border: 4px solid var(--wine);border-radius: 12px;padding: 40px;margin-bottom: 30px}\n        .faq-group h3 {color: var(--wine);font-size: 1.5rem;margin-bottom: 25px;border-bottom: 2px dashed #ddd;padding-bottom: 12px}\n        details {margin-bottom: 22px}\n        summary {font-weight: 600;cursor: pointer;padding: 12px 0;font-size: 1.15rem;color: var(--wine)}\n        .footer {background: var(--wine);color: var(--ivory);text-align: center;padding: 60px 20px 30px;font-size: 0.95rem}\n        @media (max-width: 768px) {\n            body {padding-left: 0}\n            nav {position: fixed;width: 100%;height: auto;flex-direction: row;overflow-x: auto}\n        }\n    </style><nav>\n        <ul>\n            <li><a href=\"#hero\">首页</a></li>\n            <li><a href=\"#plans\">套餐方案</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n\n    <header>ShadowRhythm</header>\n\n    <section id=\"hero\" class=\"hero\">\n        <div>\n            <h1>SHADOW<br>RHYTHM</h1>\n            <p>亲爱的朋友，你好！<br>想让数字生活多点节奏感吗？来试试我们的方案吧～</p>\n        </div>\n    </section>\n\n    <section id=\"plans\" class=\"section\">\n        <h2>选择你的节奏套餐</h2>\n        <div class=\"plans\">\n            <div class=\"plan-card\">\n                <h3>基础版</h3>\n                <div class=\"price\">¥15/月<br><span>按年付仅需 ¥150/年</span></div>\n                <ul class=\"features\">\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"plan-card\">\n                <h3>旗舰版</h3>\n                <div class=\"price\">¥35/月<br><span>按年付仅需 ¥350/年</span></div>\n                <ul class=\"features\">\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"plan-card\">\n                <h3>团队版</h3>\n                <div class=\"price\">¥85/月<br><span>按年付仅需 ¥850/年</span></div>\n                <ul class=\"features\">\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\" class=\"section\">\n        <h2>朋友们常问的问题</h2>\n        <div class=\"faq-group\">\n            <h3>入门与开通</h3>\n            <details>\n                <summary>如何开始使用 ShadowRhythm？</summary>\n                <p>非常简单！先选择喜欢的套餐，点击立即订阅，然后按照指引下载客户端或网页版，登录后即可开启你的节奏之旅。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。你可以根据需要灵活切换。</p>\n            </details>\n        </div>\n        <div class=\"faq-group\">\n            <h3>流量与性能</h3>\n            <details>\n                <summary>流量用完后会怎么样？</summary>\n                <p>超出部分会进入限速模式，但日常使用通常不会遇到麻烦。想省钱的话，推荐选择年付套餐。</p>\n            </details>\n            <details>\n                <summary>网络加速有帮助吗？</summary>\n                <p>旗舰版和团队版提供更优化的节点和游戏加速功能，能显著提升连接稳定性。</p>\n            </details>\n        </div>\n    </section>\n\n    <footer class=\"footer\">\n        <p>© 2025 ShadowRhythm • 亲切 • 实用 • 快乐节奏</p>\n    </footer></main>",
+          "hash": "982c834191c434ed58bbff32bc95378ab56dcde544bf1872d7553325eed22ced",
+          "seo": {
+            "title": "ShadowRhythm | 你的数字节奏",
+            "keywords": "ShadowRhythm,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "ShadowRhythm 带来亲切又实用的数字生活方案，轻松管理流量，享受自在节奏！"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "3817",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "knulgbm.cn",
+    "host": "p-3b1095415d.knulgbm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5753c75c2073fae723b6abe8ff43be88091dad4392d653885579ed101c7232a1",
+    "sitemap.xml": "aec7b26819bed47c6d8bcadd248cc39b95155b1ac759d5b345f897c64f82d459",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fd3f5009f225a6011c2bf04fe05f00ff745199a015e2c1a2f6f9bd89c3a4c472",
+    "robots.txt": "6d14998f35ab57306ceb6c37dc88130c724dd7447df8e5820d44445fb6f49902",
+    "72bc2126490e2e9ae3f1020a0ce563d4.txt": "749bbcce411e4f67847505971e7992928b4a31c9a72b78ffb6fd887e3f18998f"
+  },
+  "revision": "269133b3910aae6a3ab7320cd1076e20cbda03b7fe24c506393a803be7a79c38"
+}
